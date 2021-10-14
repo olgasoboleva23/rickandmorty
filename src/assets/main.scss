@@ -1,0 +1,22 @@
+.characters-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.character-block {
+    display: flex;
+    flex-direction: row;
+    width: 22%;
+    margin: 10px;
+
+    &_image img {
+        width: 60px;
+        height: auto;
+    }
+    &_info {
+        display: flex;
+        flex-direction: column;
+    }
+
+}

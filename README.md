@@ -1,4 +1,4 @@
-# dune
+# rickandmorty
 
 ## Project setup
 ```
